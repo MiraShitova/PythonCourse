@@ -14,6 +14,5 @@ class Solution:
                 num -= value
         return roman_str
 
-
 solution = Solution()
 print(solution.intToRoman(3749)) 
